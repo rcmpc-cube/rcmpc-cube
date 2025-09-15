@@ -1,7 +1,11 @@
 ## Hi there 👋
 
+* 🔗 **[Project Page](https://prompt2auto.github.io)** – Overview, contributions, and results
+
+Let us know if you have any questions or feedback!
+
 <!--
-**rcmpc-cube/rcmpc-cube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SafeFlowMatching/SafeFlowMatching** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

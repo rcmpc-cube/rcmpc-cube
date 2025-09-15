@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-* 🔗 **[Project Page](https://prompt2auto.github.io)** – Overview, contributions, and results
+* 🔗 **[Project Page](https://rcmpc-cube.github.io)** – Overview, contributions, and results
 
 Let us know if you have any questions or feedback!
 
